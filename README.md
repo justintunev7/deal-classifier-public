@@ -1,4 +1,4 @@
-# T2-deal-classifier
+# deal-classifier
 
 This classifier was built to classify deals into 3 categories: "Good", "Bad" and "Neutral". The classifier was built using a dataset of 1000 deals, which were manually classified by a team. The classifier was built using a Random Forest Classifier, which was trained on the dataset of 1000 deals. The classifier was then tested on a separate dataset of 100 deals, which were also manually classified by the same team. The classifier achieved an accuracy of >85% on the test dataset.
 
